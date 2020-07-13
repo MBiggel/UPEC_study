@@ -1,4 +1,4 @@
-1. Escherichia coli virulence-associated gene database (EcVGDB) compiled from publicly available collections and publications.
+1. <i>Escherichia coli</i> virulence-associated gene database (EcVGDB) compiled from publicly available collections and publications.
 
        Main sources include:
 
