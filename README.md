@@ -10,3 +10,8 @@
 
 
 2. Sequences of 62 resolved <i>papGII</i>-containing pathogenicity islands (papGII_PAIs)
+
+
+Citation EcVGDB
+
+Biggel, M. 2020, EcVGDB, v1.0, Zenodo, doi:10.5281/zenodo.4079473
